@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Food Order App</title>
+</head>
+<body>
+<input type="text" id="filterInput" placeholder="Search by resturtant name..." width="100%">
+<select id ="sortlist" onchange="sortby(this)">
+    <option value="rating">Rating</option>
+    <option value = "ETA">ETA</option>
+</select>
+<select id ="tag" onchange="filter(this)">
+    <option value="Healthy">Healthy</option>
+    <option value = "American">American</option>
+    <option value ="FastFood">FastFood</option>
+<option value="NorthFood">NorthFood</option>
+  <option value="SouthIndianFood">SouthIndianFood</option>
+ <option value="Veg">Veg</option>
+</select>
+<input onclick="showfavorite()" type="button" value="Show Favorite items" class="listofitems" />
+
+
+
+
+<div id ="card">
+
+</div>
+
+
+</body>
+
+
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+<script src="index.js"></script>
+<link rel="stylesheet" href="style.css">
+
+</html>

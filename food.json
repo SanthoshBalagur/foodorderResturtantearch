@@ -1,0 +1,92 @@
+ [
+    {
+        "name":"subway",
+        "id":123,
+        "location":"Hitesh city",
+        "rating":4.1,
+        "ETA":25,
+        "Tags":[ "American","Healthy","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"ChennaiResturant",
+        "id":124,
+        "location":"Metro city",
+        "rating":4.5,
+        "ETA":20,
+        "Tags":["American","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"BisimiResturtant",
+        "id":125,
+        "location":"MG Road ",
+        "rating":3.5,
+        "ETA":21,
+        "Tags":["NorthFood","Indian","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"New Resturtant",
+        "id":126,
+        "location":"HighWay Road",
+        "rating":3.1,
+        "ETA":20,
+        "Tags":["American","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"Lassi Food",
+        "id":127,
+        "location":"Majestic city",
+        "rating":2.1,
+        "ETA":19,
+        "Tags":["American","Normal","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"Thalappakatti",
+        "id":128,
+        "location":"Nungabakkam",
+        "rating":3.1,
+        "ETA":22,
+        "Tags":["FastFood","SouthIndianFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"Hot Chips",
+        "id":129,
+        "location":"Sholignallur",
+        "rating":2.9,
+        "ETA":21,
+        "Tags":["American","Healthy","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"Sangeetha Hotel",
+        "id":130,
+        "location":"Hitech city",
+        "rating":3.6,
+        "ETA":22,
+        "Tags":["American","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    },
+    {
+        "name":"VasanthaBhavan",
+        "id":131,
+        "location":"new city",
+        "rating":3.9,
+        "ETA":25,
+        "Tags":["Healthy","Veg","FastFood"],
+        "photo":"https://mycommontable.com/wp-content/uploads/2018/08/roasted-balsamic-cherry-tomato-burrata-pasta-paula-casimiro-4.jpg"
+
+    }
+]
